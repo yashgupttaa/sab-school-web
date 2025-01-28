@@ -240,8 +240,24 @@ h6,
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../img/contact-us.jpg) center center no-repeat;
     background-size: cover;
+}
+
+.classes{
+    background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../img/classes.jpg) center center no-repeat;
+}
+
+.teachers{
+    background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../img/teachers_group.jpg) no-repeat;
+}
+
+.playground{
+    background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../img/playground.jpg) center no-repeat;
+}
+
+.contact-div{
+    background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../img/contact-us-img.jpg) center no-repeat;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
